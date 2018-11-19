@@ -1,3 +1,5 @@
-# Iranian_National_ID
-## Iraninan National ID generator and validator
-A javascript file with two methods to genarete Iranian National ID and validate it
+# Iranian National ID Generator and Validator
+
+A tiny util for developers, Iranian national id generator and validator in JavaScript as pure as possible.
+
+* Thanks to [@AwrminKhodaei](https://github.com/AwrminKhodaei)
